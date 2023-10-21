@@ -1,26 +1,19 @@
-# Change these first
-owner: dorwardtech # Your GitHub organization or username, where this repository lives
-repo: status # The name of this repository
+owner: dorwardtech
+repo: status 
 
 sites:
-  - name: ZLTAC Main Site
+  - name: ZLTAC Main Site (Managed by Tr1cky)
     url: https://zltac.com.au
-    assignees:
-      - DorwardTech
-  - name: TORN (Doug & AJ)
+  - name: TORN 5 (Managed By Doug & AJ)
     url: https://torn.lasersports.au
-    assignees:
-      - DorwardTech
-      - MrMeeseeks200
-  - name: LSA - Northern Territory
+  - name: LSA - Northern Territory (Managed by Tr1cky)
     url: https://nt.lasersports.au
-    assignees:
-      - DorwardTech
       
 status-website:
   cname: status.tr1cky.au
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Tr1cky Uptime Status
-  introTitle: "Are any of Tr1cky's projects online or is he bin"
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration
+  name: Tr1ckCheck
+  theme: dark
+  introTitle: "**Tr1ckCheck** Hosted by Tr1cky"
+  introMessage: Projects that are hosted by Tr1cky, all credits to the developers & owners. I just have fancy server.
+
