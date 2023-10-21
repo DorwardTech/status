@@ -2,11 +2,13 @@ owner: dorwardtech
 repo: status 
 
 sites:
-  - name: ZLTAC Main Site (Managed by Tr1cky)
+  - name: ZLTAC Main Site
     url: https://zltac.com.au
-  - name: TORN 5 (Managed By Doug & AJ)
+  - name: TORN 5
     url: https://torn.lasersports.au
-  - name: LSA - Northern Territory (Managed by Tr1cky)
+  - name: Laser Sports Archive
+    url: https://archive.lasersports.au
+  - name: Top End Laser Sports Association
     url: https://nt.lasersports.au
       
 status-website:
@@ -14,6 +16,6 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Tr1ckCheck
   theme: dark
-  introTitle: "**Tr1ckCheck** Hosted by Tr1cky"
+  introTitle: "**Tr1ckCheck**"
   introMessage: Projects that are hosted by Tr1cky, all credits to the developers & owners. I just have fancy server.
 
