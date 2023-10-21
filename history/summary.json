@@ -23,18 +23,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/torn.lasersports.au.ico",
     "slug": "torn-doug-and-aj",
     "status": "up",
-    "uptime": "2.52%",
-    "uptimeDay": "2.52%",
-    "uptimeWeek": "2.52%",
-    "uptimeMonth": "2.52%",
-    "uptimeYear": "2.52%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 845,
     "timeDay": 845,
     "timeWeek": 845,
     "timeMonth": 845,
     "timeYear": 845,
-    "dailyMinutesDown": {
-      "2023-10-21": 2
-    }
+    "dailyMinutesDown": {}
   }
 ]
