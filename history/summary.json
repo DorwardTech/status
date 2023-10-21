@@ -1,8 +1,8 @@
 [
   {
     "name": "ZLTAC Main Site",
-    "url": "https://www.zltac.com.au",
-    "icon": "https://icons.duckduckgo.com/ip3/www.zltac.com.au.ico",
+    "url": "https://zltac.com.au",
+    "icon": "https://icons.duckduckgo.com/ip3/zltac.com.au.ico",
     "slug": "zltac-main-site",
     "status": "up",
     "uptime": "100.00%",
@@ -10,31 +10,31 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 105,
-    "timeDay": 105,
-    "timeWeek": 105,
-    "timeMonth": 105,
-    "timeYear": 105,
+    "time": 230,
+    "timeDay": 230,
+    "timeWeek": 230,
+    "timeMonth": 230,
+    "timeYear": 230,
     "dailyMinutesDown": {}
   },
   {
     "name": "TORN (Doug & AJ)",
-    "url": "https://www.torn.lasersports.au",
-    "icon": "https://icons.duckduckgo.com/ip3/www.torn.lasersports.au.ico",
+    "url": "https://torn.lasersports.au",
+    "icon": "https://icons.duckduckgo.com/ip3/torn.lasersports.au.ico",
     "slug": "torn-doug-and-aj",
-    "status": "down",
-    "uptime": "2.67%",
-    "uptimeDay": "2.67%",
-    "uptimeWeek": "2.67%",
-    "uptimeMonth": "2.67%",
-    "uptimeYear": "2.67%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
+    "status": "up",
+    "uptime": "2.52%",
+    "uptimeDay": "2.52%",
+    "uptimeWeek": "2.52%",
+    "uptimeMonth": "2.52%",
+    "uptimeYear": "2.52%",
+    "time": 845,
+    "timeDay": 845,
+    "timeWeek": 845,
+    "timeMonth": 845,
+    "timeYear": 845,
     "dailyMinutesDown": {
-      "2023-10-21": 0
+      "2023-10-21": 2
     }
   }
 ]
