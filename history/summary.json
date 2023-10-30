@@ -4,19 +4,19 @@
     "url": "https://zltac.com.au",
     "icon": "https://icons.duckduckgo.com/ip3/zltac.com.au.ico",
     "slug": "zltac-main-site",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 178,
-    "timeDay": 248,
-    "timeWeek": 175,
-    "timeMonth": 178,
-    "timeYear": 178,
+    "status": "up",
+    "uptime": "99.82%",
+    "uptimeDay": "98.26%",
+    "uptimeWeek": "99.75%",
+    "uptimeMonth": "99.82%",
+    "uptimeYear": "99.82%",
+    "time": 183,
+    "timeDay": 253,
+    "timeWeek": 185,
+    "timeMonth": 183,
+    "timeYear": 183,
     "dailyMinutesDown": {
-      "2023-10-30": 0
+      "2023-10-30": 25
     }
   },
   {
@@ -54,7 +54,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-10-30": 1198,
+      "2023-10-30": 1223,
       "2023-10-29": 1440,
       "2023-10-28": 1440,
       "2023-10-27": 1440,
