@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/zltac.com.au.ico",
     "slug": "zltac-main-site",
     "status": "up",
-    "uptime": "99.92%",
+    "uptime": "99.93%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.92%",
-    "uptimeYear": "99.92%",
-    "time": 204,
-    "timeDay": 120,
-    "timeWeek": 234,
-    "timeMonth": 204,
-    "timeYear": 204,
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.93%",
+    "time": 205,
+    "timeDay": 248,
+    "timeWeek": 254,
+    "timeMonth": 205,
+    "timeYear": 205,
     "dailyMinutesDown": {
       "2023-10-30": 25
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 806,
-    "timeDay": 856,
-    "timeWeek": 873,
-    "timeMonth": 806,
-    "timeYear": 806,
+    "time": 807,
+    "timeDay": 815,
+    "timeWeek": 870,
+    "timeMonth": 807,
+    "timeYear": 807,
     "dailyMinutesDown": {}
   },
   {
@@ -54,7 +54,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-11-13": 69,
+      "2023-11-14": 67,
+      "2023-11-13": 1440,
       "2023-11-12": 1440,
       "2023-11-11": 1440,
       "2023-11-10": 1440,
@@ -91,11 +92,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1073,
-    "timeDay": 1020,
-    "timeWeek": 1116,
-    "timeMonth": 1073,
-    "timeYear": 1073,
+    "time": 1071,
+    "timeDay": 1028,
+    "timeWeek": 1102,
+    "timeMonth": 1071,
+    "timeYear": 1071,
     "dailyMinutesDown": {}
   }
 ]
