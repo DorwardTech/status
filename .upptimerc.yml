@@ -10,6 +10,8 @@ sites:
     url: https://archive.lasersports.au
   - name: Top End Laser Sports Association
     url: https://nt.lasersports.au
+  - name: Quack Pest Control
+    url: https://quackpest.com.au
       
 status-website:
   cname: status.tr1cky.au
