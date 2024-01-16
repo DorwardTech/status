@@ -24,10 +24,10 @@
     "url": "https://torn.lasersports.au",
     "icon": "https://icons.duckduckgo.com/ip3/torn.lasersports.au.ico",
     "slug": "torn-5",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 814,
@@ -35,7 +35,9 @@
     "timeWeek": 801,
     "timeMonth": 843,
     "timeYear": 814,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-01-16": 2
+    }
   },
   {
     "name": "Laser Sports Archive",
@@ -54,7 +56,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-01-16": 70,
+      "2024-01-16": 252,
       "2024-01-15": 1440,
       "2024-01-14": 1440,
       "2024-01-13": 1440,
@@ -149,9 +151,9 @@
     "url": "https://nt.lasersports.au",
     "icon": "https://icons.duckduckgo.com/ip3/nt.lasersports.au.ico",
     "slug": "top-end-laser-sports-association",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -160,7 +162,9 @@
     "timeWeek": 1082,
     "timeMonth": 1101,
     "timeYear": 1071,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-01-16": 0
+    }
   },
   {
     "name": "Quack Pest Control",
