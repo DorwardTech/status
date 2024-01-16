@@ -24,19 +24,19 @@
     "url": "https://torn.lasersports.au",
     "icon": "https://icons.duckduckgo.com/ip3/torn.lasersports.au.ico",
     "slug": "torn-5",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.89%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 814,
-    "timeDay": 745,
-    "timeWeek": 801,
-    "timeMonth": 843,
-    "timeYear": 814,
+    "status": "up",
+    "uptime": "99.81%",
+    "uptimeDay": "83.18%",
+    "uptimeWeek": "97.60%",
+    "uptimeMonth": "99.45%",
+    "uptimeYear": "99.81%",
+    "time": 816,
+    "timeDay": 838,
+    "timeWeek": 817,
+    "timeMonth": 845,
+    "timeYear": 816,
     "dailyMinutesDown": {
-      "2024-01-16": 2
+      "2024-01-16": 242
     }
   },
   {
@@ -56,7 +56,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-01-16": 252,
+      "2024-01-16": 493,
       "2024-01-15": 1440,
       "2024-01-14": 1440,
       "2024-01-13": 1440,
@@ -151,19 +151,19 @@
     "url": "https://nt.lasersports.au",
     "icon": "https://icons.duckduckgo.com/ip3/nt.lasersports.au.ico",
     "slug": "top-end-laser-sports-association",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1071,
-    "timeDay": 875,
-    "timeWeek": 1082,
-    "timeMonth": 1101,
-    "timeYear": 1071,
+    "status": "up",
+    "uptime": "99.81%",
+    "uptimeDay": "83.28%",
+    "uptimeWeek": "97.61%",
+    "uptimeMonth": "99.45%",
+    "uptimeYear": "99.81%",
+    "time": 1125,
+    "timeDay": 3424,
+    "timeWeek": 1693,
+    "timeMonth": 1253,
+    "timeYear": 1125,
     "dailyMinutesDown": {
-      "2024-01-16": 0
+      "2024-01-16": 241
     }
   },
   {
