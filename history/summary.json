@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 214,
-    "timeDay": 357,
-    "timeWeek": 314,
-    "timeMonth": 237,
-    "timeYear": 214,
+    "time": 215,
+    "timeDay": 258,
+    "timeWeek": 311,
+    "timeMonth": 234,
+    "timeYear": 215,
     "dailyMinutesDown": {
       "2023-10-30": 25
     }
@@ -26,14 +26,14 @@
     "slug": "torn-5",
     "status": "up",
     "uptime": "99.81%",
-    "uptimeDay": "83.18%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "97.60%",
     "uptimeMonth": "99.45%",
     "uptimeYear": "99.81%",
     "time": 818,
-    "timeDay": 992,
-    "timeWeek": 849,
-    "timeMonth": 853,
+    "timeDay": 844,
+    "timeWeek": 856,
+    "timeMonth": 849,
     "timeYear": 818,
     "dailyMinutesDown": {
       "2024-01-16": 242
@@ -56,7 +56,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-01-17": 71,
+      "2024-01-18": 70,
+      "2024-01-17": 1440,
       "2024-01-16": 1440,
       "2024-01-15": 1440,
       "2024-01-14": 1440,
@@ -154,15 +155,15 @@
     "slug": "top-end-laser-sports-association",
     "status": "up",
     "uptime": "99.81%",
-    "uptimeDay": "83.28%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "97.61%",
     "uptimeMonth": "99.45%",
     "uptimeYear": "99.81%",
-    "time": 1126,
-    "timeDay": 3609,
-    "timeWeek": 1693,
-    "timeMonth": 1257,
-    "timeYear": 1126,
+    "time": 1128,
+    "timeDay": 1263,
+    "timeWeek": 1743,
+    "timeMonth": 1264,
+    "timeYear": 1128,
     "dailyMinutesDown": {
       "2024-01-16": 241
     }
@@ -178,11 +179,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2148,
-    "timeDay": 2868,
-    "timeWeek": 2328,
-    "timeMonth": 2170,
-    "timeYear": 2148,
+    "time": 2157,
+    "timeDay": 2642,
+    "timeWeek": 2367,
+    "timeMonth": 2169,
+    "timeYear": 2157,
     "dailyMinutesDown": {}
   }
 ]
