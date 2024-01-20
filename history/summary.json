@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 215,
-    "timeDay": 278,
-    "timeWeek": 295,
-    "timeMonth": 233,
+    "timeDay": 201,
+    "timeWeek": 274,
+    "timeMonth": 236,
     "timeYear": 215,
     "dailyMinutesDown": {
       "2023-10-30": 25
@@ -31,9 +31,9 @@
     "uptimeMonth": "99.45%",
     "uptimeYear": "99.81%",
     "time": 818,
-    "timeDay": 784,
-    "timeWeek": 841,
-    "timeMonth": 849,
+    "timeDay": 809,
+    "timeWeek": 846,
+    "timeMonth": 843,
     "timeYear": 818,
     "dailyMinutesDown": {
       "2024-01-16": 242
@@ -56,7 +56,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-01-19": 71,
+      "2024-01-20": 70,
+      "2024-01-19": 1440,
       "2024-01-18": 1440,
       "2024-01-17": 1440,
       "2024-01-16": 1440,
@@ -155,16 +156,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/nt.lasersports.au.ico",
     "slug": "top-end-laser-sports-association",
     "status": "up",
-    "uptime": "99.81%",
+    "uptime": "99.82%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "97.61%",
     "uptimeMonth": "99.45%",
-    "uptimeYear": "99.81%",
-    "time": 1125,
-    "timeDay": 881,
-    "timeWeek": 1710,
-    "timeMonth": 1263,
-    "timeYear": 1125,
+    "uptimeYear": "99.82%",
+    "time": 1127,
+    "timeDay": 1282,
+    "timeWeek": 1726,
+    "timeMonth": 1270,
+    "timeYear": 1127,
     "dailyMinutesDown": {
       "2024-01-16": 241
     }
@@ -180,11 +181,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2163,
-    "timeDay": 2469,
-    "timeWeek": 2489,
-    "timeMonth": 2172,
-    "timeYear": 2163,
+    "time": 2149,
+    "timeDay": 1409,
+    "timeWeek": 2424,
+    "timeMonth": 2173,
+    "timeYear": 2149,
     "dailyMinutesDown": {}
   }
 ]
