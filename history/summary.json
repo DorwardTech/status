@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 215,
-    "timeDay": 201,
-    "timeWeek": 274,
-    "timeMonth": 236,
-    "timeYear": 215,
+    "time": 214,
+    "timeDay": 141,
+    "timeWeek": 252,
+    "timeMonth": 230,
+    "timeYear": 214,
     "dailyMinutesDown": {
       "2023-10-30": 25
     }
@@ -25,14 +25,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/torn.lasersports.au.ico",
     "slug": "torn-5",
     "status": "up",
-    "uptime": "99.81%",
+    "uptime": "99.82%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "97.60%",
     "uptimeMonth": "99.45%",
-    "uptimeYear": "99.81%",
+    "uptimeYear": "99.82%",
     "time": 818,
-    "timeDay": 809,
-    "timeWeek": 846,
+    "timeDay": 778,
+    "timeWeek": 842,
     "timeMonth": 843,
     "timeYear": 818,
     "dailyMinutesDown": {
@@ -56,7 +56,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-01-20": 70,
+      "2024-01-21": 76,
+      "2024-01-20": 1440,
       "2024-01-19": 1440,
       "2024-01-18": 1440,
       "2024-01-17": 1440,
@@ -161,11 +162,11 @@
     "uptimeWeek": "97.61%",
     "uptimeMonth": "99.45%",
     "uptimeYear": "99.82%",
-    "time": 1127,
-    "timeDay": 1282,
-    "timeWeek": 1726,
-    "timeMonth": 1270,
-    "timeYear": 1127,
+    "time": 1126,
+    "timeDay": 1041,
+    "timeWeek": 1713,
+    "timeMonth": 1276,
+    "timeYear": 1126,
     "dailyMinutesDown": {
       "2024-01-16": 241
     }
@@ -181,11 +182,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2149,
-    "timeDay": 1409,
-    "timeWeek": 2424,
-    "timeMonth": 2173,
-    "timeYear": 2149,
+    "time": 2154,
+    "timeDay": 2399,
+    "timeWeek": 2403,
+    "timeMonth": 2180,
+    "timeYear": 2154,
     "dailyMinutesDown": {}
   }
 ]
