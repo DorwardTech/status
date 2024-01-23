@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 213,
-    "timeDay": 154,
-    "timeWeek": 217,
-    "timeMonth": 227,
-    "timeYear": 213,
+    "time": 212,
+    "timeDay": 131,
+    "timeWeek": 203,
+    "timeMonth": 223,
+    "timeYear": 212,
     "dailyMinutesDown": {
       "2023-10-30": 25
     }
@@ -27,14 +27,14 @@
     "status": "up",
     "uptime": "99.82%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "97.60%",
+    "uptimeWeek": "98.49%",
     "uptimeMonth": "99.45%",
     "uptimeYear": "99.82%",
-    "time": 817,
+    "time": 818,
     "timeDay": 852,
     "timeWeek": 849,
-    "timeMonth": 839,
-    "timeYear": 817,
+    "timeMonth": 840,
+    "timeYear": 818,
     "dailyMinutesDown": {
       "2024-01-16": 242
     }
@@ -56,7 +56,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-01-23": 72,
+      "2024-01-23": 341,
       "2024-01-22": 1440,
       "2024-01-21": 1440,
       "2024-01-20": 1440,
@@ -161,34 +161,34 @@
     "status": "up",
     "uptime": "99.82%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "97.61%",
+    "uptimeWeek": "98.49%",
     "uptimeMonth": "99.45%",
     "uptimeYear": "99.82%",
     "time": 1123,
-    "timeDay": 1136,
-    "timeWeek": 1711,
-    "timeMonth": 1263,
+    "timeDay": 1090,
+    "timeWeek": 1637,
+    "timeMonth": 1256,
     "timeYear": 1123,
     "dailyMinutesDown": {
       "2024-01-16": 241
     }
   },
   {
-    "name": "Quack Pest Control",
-    "url": "https://quackpest.com.au",
-    "icon": "https://icons.duckduckgo.com/ip3/quackpest.com.au.ico",
-    "slug": "quack-pest-control",
+    "name": "Tr1cky Home Page",
+    "url": "https://tr1cky.au",
+    "icon": "https://icons.duckduckgo.com/ip3/tr1cky.au.ico",
+    "slug": "tr1cky-home-page",
     "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2144,
-    "timeDay": 2577,
-    "timeWeek": 2218,
-    "timeMonth": 2202,
-    "timeYear": 2144,
+    "time": 2129,
+    "timeDay": 2129,
+    "timeWeek": 2129,
+    "timeMonth": 2129,
+    "timeYear": 2129,
     "dailyMinutesDown": {}
   }
 ]
