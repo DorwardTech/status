@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 204,
-    "timeDay": 88,
-    "timeWeek": 126,
-    "timeMonth": 205,
-    "timeYear": 204,
+    "time": 203,
+    "timeDay": 98,
+    "timeWeek": 124,
+    "timeMonth": 202,
+    "timeYear": 203,
     "dailyMinutesDown": {
       "2023-10-30": 25
     }
@@ -31,13 +31,31 @@
     "uptimeMonth": "99.45%",
     "uptimeYear": "99.84%",
     "time": 813,
-    "timeDay": 632,
-    "timeWeek": 798,
-    "timeMonth": 815,
+    "timeDay": 712,
+    "timeWeek": 797,
+    "timeMonth": 814,
     "timeYear": 813,
     "dailyMinutesDown": {
       "2024-01-16": 242
     }
+  },
+  {
+    "name": "Laser Sports Australasia",
+    "url": "https://lasersports.au",
+    "icon": "https://icons.duckduckgo.com/ip3/lasersports.au.ico",
+    "slug": "laser-sports-australasia",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 825,
+    "timeDay": 825,
+    "timeWeek": 825,
+    "timeMonth": 825,
+    "timeYear": 825,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Laser Sports Archive",
@@ -56,7 +74,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-02-03": 64,
+      "2024-02-03": 506,
       "2024-02-02": 1440,
       "2024-02-01": 1440,
       "2024-01-31": 1440,
@@ -175,11 +193,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.45%",
     "uptimeYear": "99.84%",
-    "time": 1114,
-    "timeDay": 883,
-    "timeWeek": 1084,
-    "timeMonth": 1227,
-    "timeYear": 1114,
+    "time": 1113,
+    "timeDay": 963,
+    "timeWeek": 1079,
+    "timeMonth": 1222,
+    "timeYear": 1113,
     "dailyMinutesDown": {
       "2024-01-16": 241
     }
@@ -195,11 +213,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1228,
-    "timeDay": 1359,
-    "timeWeek": 1261,
-    "timeMonth": 1228,
-    "timeYear": 1228,
+    "time": 1215,
+    "timeDay": 1211,
+    "timeWeek": 1237,
+    "timeMonth": 1215,
+    "timeYear": 1215,
     "dailyMinutesDown": {}
   }
 ]
