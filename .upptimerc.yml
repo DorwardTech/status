@@ -6,6 +6,8 @@ sites:
     url: https://zltac.com.au
   - name: TORN 5
     url: https://torn.lasersports.au
+  - name: Laser Sports Australasia
+    url: https://lasersports.au
   - name: Laser Sports Archive
     url: https://archive.lasersports.au
   - name: Top End Laser Sports Association
