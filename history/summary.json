@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 202,
-    "timeDay": 111,
-    "timeWeek": 135,
-    "timeMonth": 193,
+    "timeDay": 179,
+    "timeWeek": 145,
+    "timeMonth": 194,
     "timeYear": 202,
     "dailyMinutesDown": {
       "2023-10-30": 25
@@ -25,16 +25,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/torn.lasersports.au.ico",
     "slug": "torn-5",
     "status": "up",
-    "uptime": "99.84%",
+    "uptime": "99.85%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.45%",
-    "uptimeYear": "99.84%",
-    "time": 810,
-    "timeDay": 639,
-    "timeWeek": 761,
-    "timeMonth": 806,
-    "timeYear": 810,
+    "uptimeYear": "99.85%",
+    "time": 809,
+    "timeDay": 678,
+    "timeWeek": 738,
+    "timeMonth": 807,
+    "timeYear": 809,
     "dailyMinutesDown": {
       "2024-01-16": 242
     }
@@ -50,11 +50,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 952,
-    "timeDay": 865,
-    "timeWeek": 952,
-    "timeMonth": 952,
-    "timeYear": 952,
+    "time": 966,
+    "timeDay": 1024,
+    "timeWeek": 966,
+    "timeMonth": 966,
+    "timeYear": 966,
     "dailyMinutesDown": {}
   },
   {
@@ -74,7 +74,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-02-06": 65,
+      "2024-02-07": 63,
+      "2024-02-06": 1440,
       "2024-02-05": 1440,
       "2024-02-04": 1440,
       "2024-02-03": 1440,
@@ -191,16 +192,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/nt.lasersports.au.ico",
     "slug": "top-end-laser-sports-association",
     "status": "up",
-    "uptime": "99.84%",
+    "uptime": "99.85%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.45%",
-    "uptimeYear": "99.84%",
-    "time": 1109,
-    "timeDay": 849,
-    "timeWeek": 1040,
+    "uptimeYear": "99.85%",
+    "time": 1107,
+    "timeDay": 879,
+    "timeWeek": 1005,
     "timeMonth": 1201,
-    "timeYear": 1109,
+    "timeYear": 1107,
     "dailyMinutesDown": {
       "2024-01-16": 241
     }
@@ -216,11 +217,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1182,
-    "timeDay": 860,
-    "timeWeek": 1124,
-    "timeMonth": 1182,
-    "timeYear": 1182,
+    "time": 1205,
+    "timeDay": 1575,
+    "timeWeek": 1167,
+    "timeMonth": 1205,
+    "timeYear": 1205,
     "dailyMinutesDown": {}
   }
 ]
