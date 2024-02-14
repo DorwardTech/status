@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 203,
-    "timeDay": 182,
-    "timeWeek": 214,
-    "timeMonth": 181,
+    "timeDay": 189,
+    "timeWeek": 215,
+    "timeMonth": 178,
     "timeYear": 203,
     "dailyMinutesDown": {
       "2023-10-30": 25
@@ -31,9 +31,9 @@
     "uptimeMonth": "99.45%",
     "uptimeYear": "99.85%",
     "time": 808,
-    "timeDay": 867,
-    "timeWeek": 778,
-    "timeMonth": 789,
+    "timeDay": 849,
+    "timeWeek": 802,
+    "timeMonth": 790,
     "timeYear": 808,
     "dailyMinutesDown": {
       "2024-01-16": 242
@@ -50,11 +50,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1017,
-    "timeDay": 1261,
-    "timeWeek": 1054,
-    "timeMonth": 1017,
-    "timeYear": 1017,
+    "time": 1008,
+    "timeDay": 911,
+    "timeWeek": 1038,
+    "timeMonth": 1008,
+    "timeYear": 1008,
     "dailyMinutesDown": {}
   },
   {
@@ -74,7 +74,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-02-13": 66,
+      "2024-02-14": 66,
+      "2024-02-13": 1440,
       "2024-02-12": 1440,
       "2024-02-11": 1440,
       "2024-02-10": 1440,
@@ -198,14 +199,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/nt.lasersports.au.ico",
     "slug": "top-end-laser-sports-association",
     "status": "up",
-    "uptime": "99.85%",
+    "uptime": "99.86%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.45%",
-    "uptimeYear": "99.85%",
+    "uptimeYear": "99.86%",
     "time": 1111,
-    "timeDay": 1126,
-    "timeWeek": 1141,
+    "timeDay": 1151,
+    "timeWeek": 1180,
     "timeMonth": 1212,
     "timeYear": 1111,
     "dailyMinutesDown": {
@@ -223,11 +224,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1232,
-    "timeDay": 1223,
-    "timeWeek": 1345,
-    "timeMonth": 1232,
-    "timeYear": 1232,
+    "time": 1224,
+    "timeDay": 1051,
+    "timeWeek": 1270,
+    "timeMonth": 1224,
+    "timeYear": 1224,
     "dailyMinutesDown": {}
   }
 ]
