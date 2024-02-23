@@ -13,7 +13,7 @@
     "time": 201,
     "timeDay": 257,
     "timeWeek": 172,
-    "timeMonth": 165,
+    "timeMonth": 167,
     "timeYear": 201,
     "dailyMinutesDown": {
       "2023-10-30": 25
@@ -24,18 +24,19 @@
     "url": "https://torn.lasersports.au",
     "icon": "https://icons.duckduckgo.com/ip3/torn.lasersports.au.ico",
     "slug": "torn-5",
-    "status": "up",
+    "status": "down",
     "uptime": "99.87%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.87%",
     "time": 809,
     "timeDay": 786,
     "timeWeek": 843,
-    "timeMonth": 784,
+    "timeMonth": 782,
     "timeYear": 809,
     "dailyMinutesDown": {
+      "2024-02-23": 1,
       "2024-01-16": 242
     }
   },
@@ -44,18 +45,20 @@
     "url": "https://lasersports.au",
     "icon": "https://icons.duckduckgo.com/ip3/lasersports.au.ico",
     "slug": "laser-sports-australasia",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 996,
-    "timeDay": 724,
-    "timeWeek": 1008,
-    "timeMonth": 996,
-    "timeYear": 996,
-    "dailyMinutesDown": {}
+    "time": 1109,
+    "timeDay": 2101,
+    "timeWeek": 1317,
+    "timeMonth": 1109,
+    "timeYear": 1109,
+    "dailyMinutesDown": {
+      "2024-02-23": 1
+    }
   },
   {
     "name": "Laser Sports Archive",
@@ -74,7 +77,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-02-23": 64,
+      "2024-02-23": 523,
       "2024-02-22": 1440,
       "2024-02-21": 1440,
       "2024-02-20": 1440,
@@ -207,18 +210,19 @@
     "url": "https://nt.lasersports.au",
     "icon": "https://icons.duckduckgo.com/ip3/nt.lasersports.au.ico",
     "slug": "top-end-laser-sports-association",
-    "status": "up",
+    "status": "down",
     "uptime": "99.87%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.87%",
-    "time": 1112,
-    "timeDay": 907,
-    "timeWeek": 1127,
-    "timeMonth": 1078,
-    "timeYear": 1112,
+    "time": 1127,
+    "timeDay": 2012,
+    "timeWeek": 1376,
+    "timeMonth": 1141,
+    "timeYear": 1127,
     "dailyMinutesDown": {
+      "2024-02-23": 0,
       "2024-01-16": 241
     }
   },
@@ -227,17 +231,19 @@
     "url": "https://tr1cky.au",
     "icon": "https://icons.duckduckgo.com/ip3/tr1cky.au.ico",
     "slug": "tr1cky-home-page",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1251,
-    "timeDay": 1287,
-    "timeWeek": 1386,
-    "timeMonth": 1251,
-    "timeYear": 1251,
-    "dailyMinutesDown": {}
+    "time": 1262,
+    "timeDay": 1463,
+    "timeWeek": 1417,
+    "timeMonth": 1236,
+    "timeYear": 1262,
+    "dailyMinutesDown": {
+      "2024-02-23": 0
+    }
   }
 ]
