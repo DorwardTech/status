@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 197,
-    "timeDay": 143,
-    "timeWeek": 138,
-    "timeMonth": 169,
-    "timeYear": 197,
+    "time": 198,
+    "timeDay": 269,
+    "timeWeek": 154,
+    "timeMonth": 175,
+    "timeYear": 198,
     "dailyMinutesDown": {
       "2023-10-30": 25
     }
@@ -25,16 +25,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/torn.lasersports.au.ico",
     "slug": "torn-5",
     "status": "up",
-    "uptime": "99.88%",
+    "uptime": "99.89%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.88%",
-    "time": 812,
-    "timeDay": 826,
-    "timeWeek": 793,
+    "uptimeYear": "99.89%",
+    "time": 811,
+    "timeDay": 637,
+    "timeWeek": 759,
     "timeMonth": 827,
-    "timeYear": 812,
+    "timeYear": 811,
     "dailyMinutesDown": {
       "2024-01-16": 242
     }
@@ -50,11 +50,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1075,
-    "timeDay": 1211,
-    "timeWeek": 987,
-    "timeMonth": 1108,
-    "timeYear": 1075,
+    "time": 1070,
+    "timeDay": 816,
+    "timeWeek": 970,
+    "timeMonth": 1106,
+    "timeYear": 1070,
     "dailyMinutesDown": {}
   },
   {
@@ -74,7 +74,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-03-15": 66,
+      "2024-03-16": 64,
+      "2024-03-15": 1440,
       "2024-03-14": 1440,
       "2024-03-13": 1440,
       "2024-03-12": 1440,
@@ -234,11 +235,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.89%",
-    "time": 1164,
-    "timeDay": 1147,
-    "timeWeek": 1114,
-    "timeMonth": 1372,
-    "timeYear": 1164,
+    "time": 1162,
+    "timeDay": 873,
+    "timeWeek": 1056,
+    "timeMonth": 1371,
+    "timeYear": 1162,
     "dailyMinutesDown": {
       "2024-01-16": 241
     }
@@ -254,11 +255,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1252,
-    "timeDay": 1058,
-    "timeWeek": 979,
-    "timeMonth": 1276,
-    "timeYear": 1252,
+    "time": 1243,
+    "timeDay": 777,
+    "timeWeek": 940,
+    "timeMonth": 1268,
+    "timeYear": 1243,
     "dailyMinutesDown": {}
   }
 ]
