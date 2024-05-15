@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 205,
-    "timeDay": 258,
-    "timeWeek": 309,
+    "timeDay": 244,
+    "timeWeek": 305,
     "timeMonth": 264,
     "timeYear": 205,
     "dailyMinutesDown": {
@@ -30,11 +30,11 @@
     "uptimeWeek": "99.64%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.87%",
-    "time": 838,
-    "timeDay": 827,
-    "timeWeek": 879,
-    "timeMonth": 872,
-    "timeYear": 838,
+    "time": 837,
+    "timeDay": 714,
+    "timeWeek": 847,
+    "timeMonth": 863,
+    "timeYear": 837,
     "dailyMinutesDown": {
       "2024-05-14": 37,
       "2024-03-23": 116,
@@ -52,11 +52,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.92%",
-    "time": 1047,
-    "timeDay": 838,
-    "timeWeek": 970,
-    "timeMonth": 1074,
-    "timeYear": 1047,
+    "time": 1046,
+    "timeDay": 873,
+    "timeWeek": 946,
+    "timeMonth": 1070,
+    "timeYear": 1046,
     "dailyMinutesDown": {
       "2024-03-23": 114
     }
@@ -78,7 +78,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-05-14": 973,
+      "2024-05-15": 71,
+      "2024-05-14": 1440,
       "2024-05-13": 1440,
       "2024-05-12": 1440,
       "2024-05-11": 1440,
@@ -298,11 +299,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.88%",
-    "time": 1163,
-    "timeDay": 1087,
-    "timeWeek": 1124,
-    "timeMonth": 1093,
-    "timeYear": 1163,
+    "time": 1162,
+    "timeDay": 872,
+    "timeWeek": 1084,
+    "timeMonth": 1081,
+    "timeYear": 1162,
     "dailyMinutesDown": {
       "2024-03-23": 111,
       "2024-01-16": 241
@@ -319,11 +320,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
-    "time": 1193,
-    "timeDay": 1108,
-    "timeWeek": 1143,
-    "timeMonth": 1153,
-    "timeYear": 1193,
+    "time": 1194,
+    "timeDay": 1337,
+    "timeWeek": 1177,
+    "timeMonth": 1121,
+    "timeYear": 1194,
     "dailyMinutesDown": {
       "2024-03-23": 110
     }
